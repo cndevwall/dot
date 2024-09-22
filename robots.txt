@@ -1,0 +1,14 @@
+User-Agent: *
+Disallow: 
+Sitemap: https://dot-vugg.onrender.com/sitemap_index.xml
+Sitemap: https://dot-vugg.onrender.com/sitemap-01.html.gz
+Sitemap: https://dot-vugg.onrender.com/sitemap-02.html.gz
+Sitemap: https://dot-vugg.onrender.com/sitemap-03.html.gz
+Sitemap: https://dot-vugg.onrender.com/sitemap-04.html.gz
+Sitemap: https://dot-vugg.onrender.com/sitemap-05.html.gz
+Sitemap: https://dot-vugg.onrender.com/sitemap-06.html.gz
+Sitemap: https://dot-vugg.onrender.com/sitemap-07.html.gz
+Sitemap: https://dot-vugg.onrender.com/sitemap-08.html.gz
+Sitemap: https://dot-vugg.onrender.com/sitemap-09.html.gz
+Sitemap: https://dot-vugg.onrender.com/sitemap-10.html.gz
+Sitemap: https://dot-vugg.onrender.com/sitemap-11.html.gz
